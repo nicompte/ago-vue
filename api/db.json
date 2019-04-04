@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cat 1",
+      "price": 10,
+      "picture": "http://placekitten.com/g/50/50"
+    },
+    {
+      "id": 2,
+      "name": "Cat 2",
+      "price": 233,
+      "picture": "http://placekitten.com/g/60/60"
+    },
+    {
+      "id": 3,
+      "name": "Cat 3",
+      "price": 50,
+      "picture": "http://placekitten.com/g/70/70"
+    },
+    {
+      "id": 4,
+      "name": "Cat 4",
+      "price": 89,
+      "picture": "http://placekitten.com/g/80/80"
+    },
+    {
+      "id": 5,
+      "name": "Cat 5",
+      "price": 340,
+      "picture": "http://placekitten.com/g/130/130"
+    },
+    {
+      "id": 6,
+      "name": "Cat 6",
+      "price": 87,
+      "picture": "http://placekitten.com/g/300/300"
+    },
+    {
+      "id": 7,
+      "name": "Cat 7",
+      "price": 34,
+      "picture": "http://placekitten.com/g/100/100"
+    },
+    {
+      "id": 8,
+      "name": "Cat 8",
+      "price": 876,
+      "picture": "http://placekitten.com/g/120/120"
+    },
+    {
+      "id": 9,
+      "name": "Cat 9",
+      "price": 32,
+      "picture": "http://placekitten.com/g/140/140"
+    },
+    {
+      "id": 10,
+      "name": "Cat 10",
+      "price": 534,
+      "picture": "http://placekitten.com/g/150/150"
+    },
+    {
+      "id": 11,
+      "name": "Cat 11",
+      "price": 34,
+      "picture": "http://placekitten.com/g/200/200"
+    },
+    {
+      "id": 12,
+      "name": "Cat 12",
+      "price": 12,
+      "picture": "http://placekitten.com/g/400/400"
+    }
+  ]
+}

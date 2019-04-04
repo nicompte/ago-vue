@@ -1,39 +1,15 @@
 # ago-vue
 
-## Project setup
-```
-yarn install
-```
+### Start the project:
+- `yarn` to install dependencies
+- `yarn rest` to start the mock api
+- `yarn serve` to build and serve the app
+- `yarn test:unit` to launch unit tests
+- `yarn test:e2e` to launch e2e tests
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Can be improved:
+- it looks ugly
+- e2e tests are ok but messy, could be reorganized
+- lots of unit tests are missing
+- I gave up fighting the project/editor style confs, so the code style is weird here and there
+- some cli generated tools (registerServiceWorker for example) are unused
